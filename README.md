@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Angela!  
 - 😄 Pronouns: she/her
 
-I'm a Master's student in **Data Science at Durham University**, passionate about **AI, machine learning, data analysis, and game development**. Always eager to learn and connect with professionals in the data field! 
+I'm a **Master’s student in Data Science at Durham University**, passionate about **AI, machine learning, data analysis, and game development**. With a background in **industrial and systems engineering**, I love transforming data into actionable insights and creating innovative solutions.  
 
 ## ⚡ Tech & Tools  
 💻 **Languages:** Python, R, SQL  
