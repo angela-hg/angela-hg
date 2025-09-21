@@ -1,11 +1,34 @@
-# 👋 Hey there, I'm Angela!  
+# 👋 Hi, I'm Angela!  
 
-I'm a **Master’s student in Data Science at Durham University**, passionate about **AI, machine learning, data analysis, and game development**. With a background in **industrial and systems engineering**, I love transforming data into actionable insights and creating innovative solutions.  
+🎓 **MSc Data Science graduate at Durham University** and **British Council Women in STEM Scholar**  
+💡 Passionate about **machine learning, AI applications, and data-driven solutions**  
+🎮 Also exploring the fun side of tech through **game development projects**  
 
-## ⚡ Tech & Tools  
-💻 **Languages:** Python, R, SQL  
-📊 **Data Tools:** Power BI, Pandas, NumPy  
-🎮 **Game Dev:** Pygame  
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Python, R, SQL  
+- **Data & Visualization:** Power BI, Tableau, Pandas, NumPy, ggplot2, Matplotlib  
+- **Machine Learning:** scikit-learn, TensorFlow, bnlearn (Bayesian Networks)  
+- **Other Tools:** Git, Jupyter, Pygame  
+
+---
+
+## 📂 Featured Projects  
+🔹 **Water Quality Prediction with Bayesian Networks** – Dissertation project modeling river system dynamics  
+🔹 **Game Dev: Rudy the Cat** – A Python game with dice rolls and branching storylines  
+🔹 **Data Visualization Dashboards** – Interactive Power BI/Tableau reports with actionable insights  
+🔹 **Machine Learning Models** – Classification & regression projects using real-world datasets  
+
+*(More in my repositories!)*  
+
+---
+
+## 🌍 About Me  
+- 🤝 Open to collaborations in **AI, ML, and data visualization**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/angela-hg) or explore my repos below 👇  
+
+---
 
 ## 📢 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angela-hg)  
