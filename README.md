@@ -16,9 +16,9 @@
 
 ## 📂 Featured Projects  
 🔹 **Water Quality Prediction with Bayesian Networks** – Dissertation project modeling river system dynamics (to be published after degree award)
-🔹 **Game Dev: Cats and Dogs** – A Python game where you control a cat with your index finger using your webcam 
-🔹 **Data Visualization Dashboards** – Interactive Power BI/Tableau reports with actionable insights (repo coming soon)
-🔹 **Machine Learning Models** – Classification & regression projects using real-world datasets (repo in preparation)
+🔹 **Game Dev: Cats and Dogs** – A Python game where you control a cat with your index finger using your webcam  
+🔹 **Data Visualization Dashboards** – Interactive Power BI/Tableau reports with actionable insights (repo coming soon) 
+🔹 **Machine Learning Models** – Classification & regression projects using real-world datasets (repo in preparation) 
 
 *(More in my repositories!)*  
 
