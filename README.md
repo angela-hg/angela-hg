@@ -1,20 +1,26 @@
 # 👋 Hi, I'm Angela!  
 
-🎓 **MSc Data Science Graduate at Durham University** | **British Council Women in STEM Scholar**  
+🎓 **MSc Data Science Graduate, Durham University**  
+🏅 **British Council Women in STEM Scholar**  
+
 💡 Passionate about **machine learning, AI applications, and data-driven solutions**  
-🎮 I explore applied machine learning and interactive projects that make tech more engaging and human.
+I explore applied machine learning and interactive projects that make tech more engaging and human.
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** Python, R, SQL  
-- **Data & Visualization:** Power BI, Tableau, Pandas, NumPy, ggplot2, Matplotlib  
-- **Machine Learning:** scikit-learn, TensorFlow, bnlearn (Bayesian Networks)  
-- **Other Tools:** Git, Jupyter, Pygame  
+## 🧠 Technical Skills  
+
+| **Category** | **Tools & Technologies** |
+|---------------|--------------------------|
+| **Languages** | Python, R, SQL |
+| **Data Analysis & Visualization** | Pandas, NumPy, ggplot2, Matplotlib, Power BI, Tableau |
+| **Machine Learning & AI** | scikit-learn, TensorFlow, bnlearn (Bayesian Networks) |
+| **Software & Tools** | Git, Jupyter, Pygame, OpenCV |
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Portfolio Projects  
+
 🔹 **🍷 Wine Quality Prediction with Machine Learning**:  
 Predicts wine quality based on chemical composition using multiple machine learning models. 
 
@@ -26,6 +32,13 @@ Interactive Power BI and Tableau dashboards that turn raw datasets into insightf
 
 🔹 **💧 Water Quality Prediction with Bayesian Networks**:  
 Dissertation project modeling river system dynamics (to be published after degree award)  
+
+### 🧩 Water Quality Prediction with Bayesian Networks  
+*R | bnlearn | Environmental Data Science*  
+A research-based model exploring **water quality dynamics** in the River Trent using Bayesian Networks.  
+> Predicted relationships among temperature, nitrate, and other determinants to support sustainable water management.  
+
+📄 **Dissertation project – publication pending degree award**
 
 
 *(More in my repositories!)*  
