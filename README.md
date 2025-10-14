@@ -21,17 +21,27 @@ I explore applied machine learning and interactive projects that make tech more 
 
 ## 📂 Portfolio Projects  
 
-🔹 **🍷 Wine Quality Prediction with Machine Learning**:  
-Predicts wine quality based on chemical composition using multiple machine learning models. 
+### 🍷 [Wine Quality Prediction](https://github.com/angela-hg/wine-quality-prediction)  
+*R | caret | ggplot2*  
+A predictive modeling project comparing machine learning algorithms to classify wine quality based on chemical features.  
+> Includes preprocessing, model evaluation, and visualization of performance metrics.  
 
-🔹 **🐱 Cats & Dogs: Hand Tracking Game**:  
+📊 *Focus:* Regression, feature importance, model tuning  
+
+[![Wine Quality Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=angela-hg&repo=wine-quality-prediction&theme=radical)](https://github.com/angela-hg/wine-quality-prediction)
+
+---
+
+### 🐾 [Cats & Dogs: Hand Tracking Game](https://github.com/angela-hg/cats-and-dogs-hand-tracking)  
+*Python | OpenCV | Pygame*  
 An interactive Python game where you control a cat with your index finger via webcam using computer vision.  
+> Showcases the creative side of computer vision and interaction design.  
 
-🔹 **📊 Data Visualization Dashboards (coming soon)**:  
-Interactive Power BI and Tableau dashboards that turn raw datasets into insightful, data-driven narratives.  
+🎮 *Focus:* Accessible tech + playful AI applications  
 
-🔹 **💧 Water Quality Prediction with Bayesian Networks**:  
-Dissertation project modeling river system dynamics (to be published after degree award)  
+[![Cats and Dogs Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=angela-hg&repo=cats-and-dogs-hand-tracking&theme=radical)](https://github.com/angela-hg/cats-and-dogs-hand-tracking)
+
+---
 
 ### 🧩 Water Quality Prediction with Bayesian Networks  
 *R | bnlearn | Environmental Data Science*  
@@ -40,8 +50,14 @@ A research-based model exploring **water quality dynamics** in the River Trent u
 
 📄 **Dissertation project – publication pending degree award**
 
-
 *(More in my repositories!)*  
+
+---
+
+### 📊 Data Visualization Dashboards *(Coming Soon)*  
+*Power BI | Tableau | Data Storytelling*  
+Interactive dashboards transforming raw datasets into **meaningful narratives** for decision-making.  
+<!-- > Topics include sustainability, demographics, and social impact analytics.  -->
 
 ---
 
@@ -54,3 +70,10 @@ A research-based model exploring **water quality dynamics** in the River Trent u
 ## 📢 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angela-hg)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/angela-hg)  
+
+
+---
+
+<p align="center">
+  <i>“Data is not just numbers — it's a way to understand and improve the world.”</i>
+</p>
