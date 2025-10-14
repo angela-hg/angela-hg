@@ -16,13 +16,17 @@
 
 ## 📂 Featured Projects  
 🔹 **🍷 Wine Quality Prediction with Machine Learning** –  
-Predicts wine quality based on chemical composition using multiple machine learning models.  
+Predicts wine quality based on chemical composition using multiple machine learning models. 
+
 🔹 **🐱 Cats & Dogs: Hand Tracking Game** –  
 An interactive Python game where you control a cat with your index finger via webcam using computer vision.  
+
 🔹 **📊 Data Visualization Dashboards (coming soon)** –  
 Interactive Power BI and Tableau dashboards that turn raw datasets into insightful, data-driven narratives.  
+
 🔹 **💧 Water Quality Prediction with Bayesian Networks** –  
 Dissertation project modeling river system dynamics (to be published after degree award)  
+
 
 *(More in my repositories!)*  
 
