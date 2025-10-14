@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Angela!  
 
-🎓 **MSc Data Science graduate at Durham University** and **British Council Women in STEM Scholar**  
+🎓 **MSc Data Science Graduate at Durham University** | **British Council Women in STEM Scholar**  
 💡 Passionate about **machine learning, AI applications, and data-driven solutions**  
-🎮 Also exploring the fun side of tech through **game development projects**  
+🎮 I explore applied machine learning and interactive projects that make tech more engaging and human.
 
 ---
 
@@ -15,10 +15,10 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 **Water Quality Prediction with Bayesian Networks** – Dissertation project modeling river system dynamics (to be published after degree award)  
-🔹 **Game Dev: Cats and Dogs** – A Python game where you control a cat with your index finger using your webcam  
-🔹 **Data Visualization Dashboards** – Interactive Power BI/Tableau reports with actionable insights (repo coming soon)  
-🔹 **Machine Learning Models** – Classification & regression projects using real-world datasets (repo in preparation)  
+🔹 **🍷 Wine Quality Prediction with Machine Learning** – Predicts wine quality based on chemical composition using multiple machine learning models.
+🔹 **🐱 Cats & Dogs: Hand Tracking Game** – An interactive Python game where you control a cat with your index finger via webcam using computer vision.
+🔹 **📊 Data Visualization Dashboards (coming soon)** – Interactive Power BI and Tableau dashboards that turn raw datasets into insightful, data-driven narratives.
+🔹 **💧 Water Quality Prediction with Bayesian Networks** – Dissertation project modeling river system dynamics (to be published after degree award)  
 
 *(More in my repositories!)*  
 
@@ -33,17 +33,3 @@
 ## 📢 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angela-hg)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/angela-hg)  
-
-<!--
-**angela-hg/angela-hg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
