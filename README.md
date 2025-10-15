@@ -50,14 +50,14 @@ A research-based model exploring **water quality dynamics** in the River Trent u
 
 📄 **Dissertation project – publication pending degree award**
 
-*(More in my repositories!)*  
-
 ---
 
 ### 📊 Data Visualization Dashboards *(Coming Soon)*  
 *Power BI | Tableau | Data Storytelling*  
 Interactive dashboards transforming raw datasets into **meaningful narratives** for decision-making.  
 <!-- > Topics include sustainability, demographics, and social impact analytics.  -->
+
+*(More in my repositories!)*  
 
 ---
 
